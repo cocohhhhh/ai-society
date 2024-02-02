@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://cocohhhhh.github.io/sitemap.xml
+Sitemap: https://cocohhhhh.github.io/ai-society//sitemap.xml
